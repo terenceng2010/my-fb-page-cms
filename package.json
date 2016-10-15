@@ -1,0 +1,11 @@
+{
+  "name": "meteorNoMongo",
+  "private": true,
+  "scripts": {
+    "start": "MONGO_URL=none meteor run"
+  },
+  "dependencies": {
+    "fb": "^1.1.1",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
